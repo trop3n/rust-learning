@@ -21,7 +21,9 @@
     in
     {
       overlays.default = final: prev: {
-        rustToolchain = final.rust-bin.fromRustupToolchainFile ./rust-toolchain.toml;
+        rustToolchain = final.rust-bin.stable.latest.default.override {
+          extensions = [ "rust-src" ];
+        };
       };
 
       devShells = forEachSupportedSystem ({ pkgs }: {
