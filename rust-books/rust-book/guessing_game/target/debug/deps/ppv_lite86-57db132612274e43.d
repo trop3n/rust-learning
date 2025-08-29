@@ -1,0 +1,11 @@
+/home/jason/dev/rust/rust-learning/rust-books/rust-book/guessing_game/target/debug/deps/ppv_lite86-57db132612274e43.rmeta: /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/lib.rs /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/soft.rs /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/types.rs /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/mod.rs /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/sse2.rs
+
+/home/jason/dev/rust/rust-learning/rust-books/rust-book/guessing_game/target/debug/deps/libppv_lite86-57db132612274e43.rlib: /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/lib.rs /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/soft.rs /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/types.rs /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/mod.rs /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/sse2.rs
+
+/home/jason/dev/rust/rust-learning/rust-books/rust-book/guessing_game/target/debug/deps/ppv_lite86-57db132612274e43.d: /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/lib.rs /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/soft.rs /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/types.rs /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/mod.rs /home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/sse2.rs
+
+/home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/lib.rs:
+/home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/soft.rs:
+/home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/types.rs:
+/home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/mod.rs:
+/home/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.21/src/x86_64/sse2.rs:
